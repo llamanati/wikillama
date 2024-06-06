@@ -2,25 +2,28 @@
 {"dg-publish":true,"permalink":"/politics/2024-presidential-election/project-2025/","tags":["republican","fascism"]}
 ---
 
-Project 2025 Aims to Undermine Existing Government
+# Aims to Undermine Existing Government
 
 - Project 2025 is a plan with a goal to completely change the U.S. federal government if a Republican wins the 2024 presidential election.
     
 - The project, started in 2022, wants to bring tens of thousands of conservatives to Washington, D.C. to replace current federal government workers, who Republicans call the "deep state".
     
 
-Project 2025 Promotes Authoritarianism and Un-American Values
+# Promotes Authoritarianism and Un-American Values
 
-- Critics label Project 2025 as an authoritarian and Christian nationalist movement, potentially leading the U.S. towards autocracy.
+- Project 2025 as an authoritarian and Christian nationalist movement, potentially leading the U.S. towards autocracy.
     
 - The project's aim to replace existing civil servants with those aligned with a specific political ideology undermines democratic principles and the peaceful transfer of power.
     
-- Experts argue that Project 2025 would weaken the rule of law and the separation of powers, key tenets of the American democratic system.
+
+> [!warning] 
+> - Experts argue that Project 2025 would weaken the rule of law and the separation of powers, key tenets of the American democratic system. 
+
     
 - The project's proposal to use the military for domestic law enforcement and target political opponents raises concerns about the militarization of government and the suppression of dissent.
     
 
-Project 2025 Seeks to Undermine Established Rights and Freedoms
+Seeks to Undermine Established Rights and Freedoms
 
 - Project 2025's plans to criminalize pornography, eliminate protections for sexual and gender identity, and end diversity programs directly contradict American values of freedom of expression and equal rights.
     
@@ -65,54 +68,8 @@ Project 2025 lays out sweeping changes across the federal government, impacting 
     
 
 
+[[Politics/2024 Presidential Election/TLDR Project 2025\|TLDR Project 2025]]
 
-
-> [!warning] Key Propositions
-> -  Gutting the  Department of Justice, 
-	- Dismantling:
-		-  the Federal Bureau of Investigation (FBI) 
-		- Department of Homeland Security (DHS).
-		- Department of Education
-		- the separation of church and state
-
-> [!alert] Limiting
-> federal funding for scientific research to projects aligned with conservative principles.
-> Explicitly rejecting the categorization of abortion as healthcare
-> 
-
-
-># Restricting:
-> - Access to contraception
->- Adult Content BAN
-
-
-
-
-
-
-> [!warning] The Project Proposes to:
-> - Criminalize Pornography
-> - Remove legal safeguards against discrimination based on sexual or gender identity.
-> - Discontinue diversity, equity, and inclusion (DEI) programs, along with affirmative action
-> - Authorizing the military to engage in domestic law enforcement.
-> - Empowering the Department of Justice to prosecute adversaries of former President Trump through the invocation of the Insurrection Act of 1807.
-> - 
-
-
-> [!warning] Rushing Death Penalty
-> - Expanding the use of capital punishment and ensuring the swift execution of such sentences.
-
-
-The Heritage Foundation, in developing Project 2025, collaborated with over 100 organizations. These include:
-
-- Turning Point USA.
-    
-- The Conservative Partnership Institute.
-    
-- The Center for Renewing America.
-    
-- America First Legal.
-    
 
 Project 2025 has drawn sharp criticism of Legal scholars that warn that the plan threatens the rule of law and the principle of separation of powers. Notably, some conservatives and Republicans have also voiced concerns, particularly regarding the project's potential to:
 
